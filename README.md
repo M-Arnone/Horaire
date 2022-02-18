@@ -25,7 +25,7 @@ OracleLinux-R8-U4-x86_64-dvd.iso
 # bash: qtcreator: unknown command...
 # Do you want to install the « qt-creator » package which provides the « qtcreator » command ? [N/y]
 ```
-## How To Use It
+## 🤔 - How To Use It
 
 ##### Go in bash and type
 ```
